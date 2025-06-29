@@ -48,9 +48,9 @@ body {
 .navbar-container {
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    max-width: 1200px;
-    padding: 0 2px;
+    align-items: left;
+    margin: 0 auto;
+    padding: 0 20px;
 }
 
 .site-name {
